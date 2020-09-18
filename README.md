@@ -1,2 +1,1 @@
-# DouYuZB
-模仿斗鱼TV
+学习go
